@@ -38,6 +38,8 @@ if intentos<2:
 """
 #-------------------------------------------------------
 #Continue pass y else
+
+#Eh implementado una mejora en tu proyecto
 """
 for letra in "Python":
     if letra == "h":
